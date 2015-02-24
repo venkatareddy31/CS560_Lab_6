@@ -1,0 +1,6 @@
+applications:
+- host: re-java-sample-13
+  name: re-java-sample-13
+  path: webApp.war
+  domain: mybluemix.net
+  memory: 512M
